@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('week4-express:server');
+var debug = require('debug')('nodejs_ai_travel_planner:server');
 var http = require('http');
 
 /**

@@ -1,1 +1,1 @@
-# Backend of the app OTC Stock forum
+# Backend of the app AI Travel Planner
